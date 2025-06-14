@@ -6,7 +6,7 @@ Imaginate is a Flask-based web application that enables users to upload and edit
 
 ## 👨‍💻 Built By
 
-- **Vineet Kumar Shah**  
+- **Vian Shah**  
 - **Shloka Shetiya**  
 - **Tirrth Mistry**
 
