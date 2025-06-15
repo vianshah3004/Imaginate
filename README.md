@@ -33,13 +33,13 @@ Imaginate is a Flask-based web application that enables users to upload and edit
 ### 🔹 Home Page  
 ![image](https://github.com/vianshah3004/Imaginate/assets/124880161/b87e3831-d4da-48dc-a8f5-bf1d603c7421)
 
-### 🔹 Upload & Edit Interface  
+### 🔹 Subscription Page   
 ![image](https://github.com/vianshah3004/Imaginate/assets/124880161/29043d25-1d0e-4101-8b6a-8f1c71d39da9)
 
-### 🔹 Output Page  
+### 🔹 Payment Gateway Page  
 ![image](https://github.com/vianshah3004/Imaginate/assets/124880161/e9117bf9-ced8-4588-a7e3-658437af82bd)
 
-### 🔹 Converted Output Example  
+### 🔹 Upload & Edit Interface  
 ![image](https://github.com/vianshah3004/Imaginate/assets/124880161/7d7cb887-76e6-472b-9468-5eed9b58fe61)
 
 ---
